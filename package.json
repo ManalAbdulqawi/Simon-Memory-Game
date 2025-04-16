@@ -1,0 +1,22 @@
+{
+  "name": "simon-memory-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManalAbdulqawi/Simon-Memory-Game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManalAbdulqawi/Simon-Memory-Game/issues"
+  },
+  "homepage": "https://github.com/ManalAbdulqawi/Simon-Memory-Game#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
